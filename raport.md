@@ -36,15 +36,11 @@ Progi upper oraz lower zostały wyznaczone jako kwantyle rozkładu prawdopodobie
 
 Charakterystyka strategii
 
-strategia typu long-only (brak krótkiej sprzedaży),
-
-brak zastosowania dźwigni finansowej,
-
-portfel w danym momencie znajduje się w całości w gotówce lub w całości w instrumencie,
-
-transakcje realizowane są na cenach zamknięcia (Adjusted Close),
-
-uwzględniono prowizje oraz poślizg transakcyjny.
+- strategia typu long-only (brak krótkiej sprzedaży),
+- brak zastosowania dźwigni finansowej,
+- portfel w danym momencie znajduje się w całości w gotówce lub w całości w instrumencie,
+- transakcje realizowane są na cenach zamknięcia (Adjusted Close),
+- uwzględniono prowizje oraz poślizg transakcyjny.
 
 Backtest
 
